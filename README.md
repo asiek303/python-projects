@@ -12,5 +12,4 @@ I'm currently learning the language and using this repo to keep track of what I'
 
 ### Why this repo?
 
-I'm new to Python and GitHub.  
-This is where I practice, learn version control, and slowly improve my coding skills.
+This is where I practice, learn version control and slowly improve my coding skills.
